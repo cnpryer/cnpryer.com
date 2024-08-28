@@ -25,6 +25,9 @@ I enjoy contributing to projects I depend on, like [Ruff's Python formatter](htt
 
 To view my <strong>resume</strong> <a href="http://cnpryer.com/Resume.pdf" target="_blank">click here</a>.
 
+## Blog
+
+[Click here](https://cnpryer.github.io) to check out my personal blog.
 
 ## Contact
 
