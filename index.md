@@ -5,11 +5,9 @@
 
 # About
 
-Hi 👋 I build and I board 🏂 *\*smile\**.
+Software, snowboarding, and more. Welcome to my personal website.
 
-I enjoy contributing to projects I depend on, like [Ruff's Python formatter](https://astral.sh/blog/the-ruff-formatter). I build and share tools like [Huak](https://github.com/cnpryer/huak) -- an experiment with Python package management. I work for a logistics firm as a Principal Software Engineer. You can read about some of that experience [here](https://cnpryer.github.io/building_a_digital_twin_for_a_logistics_firm/).
-
-*Some notable highlights* of my public projects and open source contributions:
+I work for a logistics firm in the USA as a Software Engineer. *Some* notable highlights of my public projects and open source contributions:
 
 | Date | Project | Highlights |
 | -- | -- | -- |
@@ -20,20 +18,12 @@ I enjoy contributing to projects I depend on, like [Ruff's Python formatter](htt
 | 2019 | [`solverstack`](https://github.com/cnpryer/solverstack) | Built a proof-of-concept for vehicle routing features. |
 | 2018 | [`pyords`](https://github.com/cnpryer/pyords) | Built solutions for operations research and data science use-cases including clustering, optimization, and simulation. |
 
-
 ## Resume
 
 To view my <strong>resume</strong> <a href="http://cnpryer.com/Resume.pdf" target="_blank">click here</a>.
-
-## Blog
-
-[Click here](https://cnpryer.github.io) to check out my personal blog.
 
 ## Contact
 
 Email: <a href="mailto:cnpryer@gmail.com">cnpryer@gmail.com</a>
 
-## Other
-
-[https://gofund.me/6ad728f3](https://gofund.me/6ad728f3)
 
